@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cm9dJLnbCyECcUMieAU8XM5wJo14Xkw0ShDOMm9L3BTgRhC0qrL4PPWh75cCBXJ6awN55KyHVOnvU7zcHQi1TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\RemoteController\\RemoteController.Server\\RemoteController.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

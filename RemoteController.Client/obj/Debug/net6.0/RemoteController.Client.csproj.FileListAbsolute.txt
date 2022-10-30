@@ -1,0 +1,58 @@
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.exe
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.deps.json
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.runtimeconfig.json
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.dll
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.pdb
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.csproj.AssemblyReference.cache
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.AssemblyInfoInputs.cache
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.AssemblyInfo.cs
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.csproj.CoreCompileInputs.cache
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.dll
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\obj\Debug\net6.0\refint\RemoteController.Client.dll
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.pdb
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.genruntimeconfig.cache
+C:\Users\Aliy_ql08\Desktop\New folder\RemoteController\RemoteController.Client\obj\Debug\net6.0\ref\RemoteController.Client.dll
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.exe
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.deps.json
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.runtimeconfig.json
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.dll
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.pdb
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.csproj.AssemblyReference.cache
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.AssemblyInfoInputs.cache
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.AssemblyInfo.cs
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.csproj.CoreCompileInputs.cache
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.dll
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\obj\Debug\net6.0\refint\RemoteController.Client.dll
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.pdb
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.genruntimeconfig.cache
+C:\Users\Aliy_ql08\Desktop\RemoteController\RemoteController.Client\obj\Debug\net6.0\ref\RemoteController.Client.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.exe
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.dll.config
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.deps.json
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.runtimeconfig.json
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\RemoteController.Client.pdb
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.AssemblyInfo.cs
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.csproj.CopyComplete
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\obj\Debug\net6.0\refint\RemoteController.Client.dll
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.pdb
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\obj\Debug\net6.0\RemoteController.Client.genruntimeconfig.cache
+C:\Users\HP\source\repos\RemoteController\RemoteController.Client\obj\Debug\net6.0\ref\RemoteController.Client.dll
